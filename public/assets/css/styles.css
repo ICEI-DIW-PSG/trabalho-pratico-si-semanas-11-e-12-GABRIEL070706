@@ -1,0 +1,163 @@
+/* ====== Tipografia geral ====== */
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  background-color: #fff8f8;
+  color: #333;
+  line-height: 1.6;
+  scroll-behavior: smooth; /* Rolagem suave */
+}
+
+/* ====== Ajustes para os títulos ====== */
+h1, h2, h3, h4 {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+h2 {
+  color: #e64a19;
+  border-bottom: 2px solid #ffcc80;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #bf360c;
+}
+
+/* ====== Layout de destaques (grid responsivo) ====== */
+.destaques {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+/* ====== Melhoria dos Cards ====== */
+.card {
+  border-radius: 12px;
+  overflow: hidden;
+  border: none;
+  background: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* Imagens dos Cards */
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+  border-bottom: 3px solid #dc3545;
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+/* ====== Slider ====== */
+.carousel-caption {
+  padding: 20px;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(3px);
+}
+
+.carousel-caption h5 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  font-size: 1rem;
+}
+
+/* ====== Pesquisa ====== */
+.input-group .form-control {
+  border-radius: 25px 0 0 25px;
+  padding: 10px 15px;
+}
+
+.input-group .btn {
+  border-radius: 0 25px 25px 0;
+  padding: 10px 20px;
+}
+
+/* ====== Formulário responsivo ====== */
+.formulario {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.formulario input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* ====== Botões ====== */
+.btn-danger {
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-weight: 500;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn-danger:hover {
+  background-color: #bb2d3b;
+  transform: scale(1.05);
+}
+
+/* ====== Footer ====== */
+footer {
+  background-color: #dc3545;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 0.95rem;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.25);
+}
+
+/* ====== Navbar ====== */
+.navbar {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-brand:hover {
+  color: #ffe0b2 !important;
+}
+
+/* ====== Responsividade geral ====== */
+@media (max-width: 768px) {
+  .carousel-caption h5 {
+    font-size: 1.3rem;
+  }
+  .carousel-caption p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .menu-principal ul {
+    flex-direction: column;
+  }
+  .menu-principal li {
+    margin: 10px 0;
+  }
+  .card-img-top {
+    height: 180px;
+  }
+}
+
+/* ====== Espaçamento entre seções ====== */
+section {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+/* ====== Detalhe de foco para acessibilidade ====== */
+a:focus, button:focus, input:focus {
+  outline: 3px solid #ffcc80;
+  outline-offset: 2px;
+}
