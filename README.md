@@ -6,10 +6,22 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Gabriel Henrique Morais Trotta
+- Matricula:1582901
+- Proposta de projeto escolhida: site culinaria
+- Breve descrição sobre seu projeto:Este projeto faz parte de uma série de desenvolvimentos voltados à criação de um portal de receitas interativo.
+Nesta primeira etapa, o foco foi construir a estrutura base do sistema, com HTML, CSS, Bootstrap e JavaScript, e integrar o front-end com o JSON Server para realizar as principais operações do CRUD:
+
+✅ GET – Listagem de receitas
+
+✅ POST – Cadastro de novas receitas
+
+✅ PUT – Edição de receitas existentes
+
+✅ DELETE – Exclusão de receitas
+
+A aplicação utiliza Fetch API para comunicação com o servidor e apresenta uma interface simples, responsiva e funcional.
+As próximas etapas do projeto incluirão recursos avançados, como login de usuários, favoritos, pesquisa dinâmica e visualização de dados em gráficos interativos.
 
 **Print dos testes da API com Postman ou similar**
 
