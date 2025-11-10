@@ -25,22 +25,26 @@ As próximas etapas do projeto incluirão recursos avançados, como login de usu
 
 **Print dos testes da API com Postman ou similar**
 
-<< <img width="1366" height="720" alt="Captura de tela 2025-11-09 200526" src="https://github.com/user-attachments/assets/610715f7-c1ad-4afc-bb48-a2fa3613a627" />
-<img width="1366" height="768" alt="Captura de tela 2025-11-09 205428" src="https://github.com/user-attachments/assets/104fc259-b335-4cb3-9ca2-216e5fdba61c" />
+<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 222225" src="https://github.com/user-attachments/assets/9f92ad16-7e3f-4e92-93e7-ef0b467f501a" />
+
  >>
 
-<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 210818" src="https://github.com/user-attachments/assets/7dd216f8-2741-4ac4-9d67-b69118749b80" />
+<img width="1366" height="768" alt="Captura de tela 2025-11-09 230540" src="https://github.com/user-attachments/assets/71fb8f31-fa41-46b9-a5e1-c2f7230b5f23" />
+
  >>
 
-<< <img width="1366" height="768" alt="Captura de tela 2025-11-09 205743" src="https://github.com/user-attachments/assets/b2d660d5-3738-49d9-8977-1b44acb03e3b" />
+<img width="1366" height="768" alt="Captura de tela 2025-11-09 230812" src="https://github.com/user-attachments/assets/67abb8a6-8af2-4547-bd4a-85c716e10ce9" />
+
 >>
 
-<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 210647" src="https://github.com/user-attachments/assets/95d04ecf-65ef-4642-817a-3b20be8ae606" />
+<img width="1366" height="768" alt="Captura de tela 2025-11-09 230609" src="https://github.com/user-attachments/assets/9eb55835-00df-414d-9e7d-9eb1da4843bc" />
+
  >>
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<< <img width="1366" height="768" alt="Captura de tela 2025-11-09 211239" src="https://github.com/user-attachments/assets/c29ba1d3-5f15-44a6-b6ca-aa874ace5085" />
+<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 231700" src="https://github.com/user-attachments/assets/01e033fa-2104-4350-8af7-c3f1f3ff496d" />
+
 >>
 
 ## **Orientações Gerais**
