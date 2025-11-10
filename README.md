@@ -13,17 +13,23 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+<< <img width="1366" height="720" alt="Captura de tela 2025-11-09 200526" src="https://github.com/user-attachments/assets/610715f7-c1ad-4afc-bb48-a2fa3613a627" />
+<img width="1366" height="768" alt="Captura de tela 2025-11-09 205428" src="https://github.com/user-attachments/assets/104fc259-b335-4cb3-9ca2-216e5fdba61c" />
+ >>
 
-<< COLOQUE A IMAGEM POST AQUI >>
+<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 210818" src="https://github.com/user-attachments/assets/7dd216f8-2741-4ac4-9d67-b69118749b80" />
+ >>
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+<< <img width="1366" height="768" alt="Captura de tela 2025-11-09 205743" src="https://github.com/user-attachments/assets/b2d660d5-3738-49d9-8977-1b44acb03e3b" />
+>>
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+<<<img width="1366" height="768" alt="Captura de tela 2025-11-09 210647" src="https://github.com/user-attachments/assets/95d04ecf-65ef-4642-817a-3b20be8ae606" />
+ >>
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< <img width="1366" height="768" alt="Captura de tela 2025-11-09 211239" src="https://github.com/user-attachments/assets/c29ba1d3-5f15-44a6-b6ca-aa874ace5085" />
+>>
 
 ## **Orientações Gerais**
 
