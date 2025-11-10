@@ -1,18 +1,57 @@
+ 
 {
-  "usuarios": [
+  "receitas": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "descricao": "Um delicioso bolo fofinho e fácil de preparar.",
+      "conteudo": "Ingredientes: 2 xícaras de farinha, 1 de chocolate, 1 de açúcar, 2 ovos, 1 xícara de leite e fermento. Misture tudo e asse por 40 minutos a 180°C. Dica: finalize com cobertura de brigadeiro.",
+      "imagem": "bolo.chocolate.avif",
+      "autor": "Chef Ana Souza",
+      "data": "2025-10-02",
+      "destaque": true
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "titulo": "Salada Tropical",
+      "descricao": "Leve, saudável e perfeita para dias quentes.",
+      "conteudo": "Misture folhas verdes, manga em cubos, frango grelhado e molho cítrico de limão. Ideal para o almoço de verão!",
+      "imagem": "Salada-Tropical-YouTube-1024x576.jpg",
+      "autor": "Chef Bruno Lima",
+      "data": "2025-10-01",
+      "destaque": true
+    },
+    {
+      "id": 3,
+      "titulo": "Macarrão à Bolonhesa",
+      "descricao": "Tradicional receita italiana que conquista qualquer paladar.",
+      "conteudo": "Prepare o molho com carne moída, tomate e temperos. Cozinhe o macarrão e misture ao molho. Sirva com queijo ralado.",
+      "imagem": "macarrao-a-bolonhesa-768x512.jpg",
+      "autor": "Chef Carla Menezes",
+      "data": "2025-09-30",
+      "destaque": false
+    },
+    {
+      "id": 4,
+      "titulo": "Feijoada",
+      "descricao": "Um clássico da culinária brasileira, rico e saboroso.",
+      "conteudo": "Feijoada completa com feijão preto, carnes variadas, arroz branco, couve refogada e laranja. Perfeita para reunir a família e amigos.",
+      "imagem": "Feijoada-Tradicional-e-Completa-1536x1536.webp",
+      "autor": "Chef Bruno Mendez",
+      "data": "2025-11-28",
+      "destaque": false
+    },
+    {
+      "id": 5,
+      "titulo": "Feijão Tropeiro",
+      "descricao": "Prato típico mineiro, cheio de sabor e tradição.",
+      "conteudo": "Feijão tropeiro com feijão carioca, farinha de mandioca, linguiça, bacon, ovos e couve. Sirva com arroz branco e torresmo.",
+      "imagem": "OIP.webp",
+      "autor": "Chef Ana Maria",
+      "data": "2025-07-17",
+      "destaque": true
     }
   ]
 }
+
+  
